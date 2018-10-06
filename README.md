@@ -4,3 +4,5 @@ The script then returns coefficient of lift, and plot the velocity vectors and s
 Note: if airfoil is too thin the mesh size of streamline should be smaller for better streamline pictures. 
 
 airfoil.m is the main application using cdoublet and panelgen as functions in airfoil.m
+
+This is part of the curriculum project and cdoublet and panelgen were provided for.
